@@ -1,0 +1,34 @@
+RotaryDryerDesigner/
+│
+├─ app/
+│  ├─ RotaryDryerDesigner.mlapp
+│  ├─ docs/
+│  │  └─ User_Manual.pdf
+│  └─ icon/
+│     ├─ Save.png
+│     ├─ importar.png
+│     ├─ reporte.png
+│     ├─ carpeta.png
+│     └─ ...
+│
+├─ core/
+│  ├─ computeDesignGasFlow.m
+│  ├─ solveAxialDryerModel.m
+│  ├─ gasPropsFromAirEquiv.m
+│  ├─ airProps.m
+│  ├─ humidAirProps_T_RH.m
+│  ├─ Cp_h2o.m
+│  └─ ...
+│
+├─ materials/
+│  ├─ Lateritic_ore.txt
+│  └─ ... materials saved by the user
+│
+├─ data/
+│  ├─ kinetics/
+│  └─ saved_cases/
+│
+└─ outputs/
+   ├─ reports/
+   ├─ figures/
+   └─ tables/

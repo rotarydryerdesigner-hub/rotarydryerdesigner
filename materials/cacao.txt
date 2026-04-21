@@ -1,0 +1,27 @@
+{
+  "MaterialName": "cacao",
+  "PhysicalProperties": {
+    "ThermalConductivity_W_mK": 0.54,
+    "SpecificHeat_J_kgK": 3000,
+    "TrueDensity_kg_m3": 1350,
+    "BulkDensity_kg_m3": 900,
+    "Emissivity": 0.95,
+    "ParticleDiameter_m": 0.2
+  },
+  "KineticProperties": {
+    "Model": "Newton",
+    "A_preExponential_1_s": 0.0008,
+    "ActivationEnergy_J_mol": 39,
+    "EquilibriumMoisture_kg_kg": 0.004,
+    "ReactionOrder": 8.314
+  },
+  "MechanicalProperties": {
+    "AngleOfRepose_deg": null,
+    "FrictionFactor": null,
+    "CohesivenessIndex": null
+  },
+  "Metadata": {
+    "Reference": "User-defined material",
+    "Notes": "Created from App Designer interface"
+  }
+}

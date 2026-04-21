@@ -1,0 +1,34 @@
+cff-version: 1.0
+message: "If you use RotaryDryerDesigner, please cite the software as follows."
+title: "RotaryDryerDesigner: A MATLAB App for Preliminary Sizing and Axial Simulation of Direct-Heated Rotary Dryers"
+version: "1.0"
+type: software
+repository-code: "https://github.com/USERNAME/RotaryDryerDesigner"
+url: "https://github.com/USERNAME/RotaryDryerDesigner"
+abstract: "RotaryDryerDesigner is a MATLAB-based application for the preliminary sizing and one-dimensional axial simulation of direct-heated rotary dryers. The software integrates process definition, solid-property management, drying-kinetics analysis, and the numerical solution of coupled heat and mass balances within a single engineering workflow. It enables users to define operating conditions, fit drying models from experimental data, estimate temperature-dependent kinetic parameters, and compute axial temperature and moisture profiles together with design-oriented outputs under prescribed operating conditions and target final moisture content."
+keywords:
+  - Rotary dryer
+  - Drying kinetics
+  - Axial simulation
+  - MATLAB
+  - Heat and mass transfer
+  - Process design
+authors:
+  - family-names: "Zalazar Oliva"
+    given-names: "Carlos"
+  - family-names: "Osorio"
+    given-names: "Liomnis"
+  - family-names: "Silva"
+    given-names: "Jorge"
+  - family-names: "Retirado-Mediaceja"
+    given-names: "Yoalbys"
+  - family-names: "Góngora Leyva"
+    given-names: "Ever"
+  - family-names: "Álvarez Reyes"
+    given-names: "Dina"
+  - family-names: "Montero"
+    given-names: "Deynier"
+contact:
+  - family-names: "Zalazar Oliva"
+    given-names: "Carlos"
+    email: "rotarydryerdesigner@gmail.com"
