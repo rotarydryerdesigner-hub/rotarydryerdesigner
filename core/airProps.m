@@ -1,5 +1,3 @@
-
-
 function [Kaire, den_Aire, Cp_aire, Vd_Aire, Vs_Aire, Alfa_aire, Pr_Aire, BET_A] = airProps(Taire_K)
 % airProps  Propiedades del aire seco en función de la temperatura
 %
